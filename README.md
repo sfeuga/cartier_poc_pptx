@@ -3,7 +3,7 @@
 ## Dependencies
 
 - Python 3.10
-- Fake Cartier API running (locally or remotely)
+- [Fake Cartier API](https://github.com/sfeuga/cartier_mock_api) running (locally or remotely)
 
 Optional:
 - direnv
