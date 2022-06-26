@@ -105,3 +105,6 @@ venv.bak/
 .idea
 .DS_Store
 .idea/
+
+# Generated files
+static/slides.pptx

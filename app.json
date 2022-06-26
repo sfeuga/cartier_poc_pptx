@@ -1,0 +1,12 @@
+{
+  "name": "Cartier PPTX POC",
+  "description": "Generate PPTX from a Fake API",
+  "repository": "https://github.com/sfeuga/cartier_poc_pptx",
+  "env": {
+    "MOCK_API": { "description": "Fake Cartier API endpoint URL" },
+    "FLASK_APP": { "value": "app" }
+  },
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-python" }
+  ]
+}
